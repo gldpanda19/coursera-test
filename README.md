@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# Coursera work
+Contains files for Coursera homework. 
